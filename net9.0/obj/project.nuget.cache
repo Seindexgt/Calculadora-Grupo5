@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FtsIYZE3GAo=",
+  "dgSpecHash": "7LQL1rNZmck=",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\Desktop\\proyecto tatata\\Calculadora-Grupo5\\net9.0\\net9.0.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.6\\microsoft.netcore.app.ref.9.0.6.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.6\\microsoft.windowsdesktop.app.ref.9.0.6.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.6\\microsoft.aspnetcore.app.ref.9.0.6.nupkg.sha512",
-    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.6\\microsoft.netcore.app.host.win-x64.9.0.6.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\TAREA CALCULADORA PROGRA 2\\Calculadora-Grupo5\\net9.0\\net9.0.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

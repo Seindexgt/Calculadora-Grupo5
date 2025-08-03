@@ -1,0 +1,5 @@
+D:\TAREA CALCULADORA PROGRA 2\Calculadora-Grupo5\net9.0\obj\Debug\net9.0\net9.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAREA CALCULADORA PROGRA 2\Calculadora-Grupo5\net9.0\obj\Debug\net9.0\net9.0.AssemblyInfoInputs.cache
+D:\TAREA CALCULADORA PROGRA 2\Calculadora-Grupo5\net9.0\obj\Debug\net9.0\net9.0.AssemblyInfo.cs
+D:\TAREA CALCULADORA PROGRA 2\Calculadora-Grupo5\net9.0\obj\Debug\net9.0\net9.0.csproj.CoreCompileInputs.cache
+D:\TAREA CALCULADORA PROGRA 2\Calculadora-Grupo5\net9.0\obj\Debug\net9.0\net9.0.sourcelink.json
